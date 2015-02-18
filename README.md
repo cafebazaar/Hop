@@ -7,6 +7,10 @@ application.
 These examples are presented in "NEW ANDROID GRADLE-BASED BUILD SYSTEM"
 workshop in [5ShanbeBazaar, Bazaar Android Developers Conference][5ShanbeBazaar].
 
+.. image:: https://travis-ci.org/congenialmobile/Hop.png
+  :target: https://travis-ci.org/congenialmobile/Hop
+
+
 [5ShanbeBazaar]: https://5shanbe.cafebazaar.ir/index-en.html
 
 Pre-requisites
