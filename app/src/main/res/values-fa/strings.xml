@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">هُپ!</string>
+
+    <string name="hop_announcement">هُپ از %s</string>
+
+    <string name="hop_over">اتمام هُپ! امتیازتان %s شد.</string>
+</resources>

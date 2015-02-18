@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Hop!</string>
+
+    <string name="hop_announcement">Hop! by %s</string>
+
+    <string name="hop_over">Hop Over! Your score is %s.</string>
+</resources>
